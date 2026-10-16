@@ -11,6 +11,3 @@ class Animal {
         return "я кот";
     }
 }
-
-
-
